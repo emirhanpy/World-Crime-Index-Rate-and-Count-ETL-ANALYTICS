@@ -1,0 +1,207 @@
+,Location,Rate,Count,Year,Region,Subregion
+0,Afghanistan ,4.0,1613,2021,Asia,Southern Asia
+1,Albania ,1.7,47,2022,Europe,Southern Europe
+2,Algeria,1.8,795,2022,Africa,Northern Africa
+3,American Samoa,0.0,0,2019,Oceania,Polynesia
+4,Andorra,2.6,2,2020,Europe,Southern Europe
+5,Angola,4.1,1196,2016,Africa,Sub-Saharan Africa
+6,Anguilla,28.3,4,2014,Americas,Latin America and the Caribbean
+7,Antigua and Barbuda,10.7,10,2022,Americas,Latin America and the Caribbean
+8,Argentina ,4.3,1961,2022,Americas,Latin America and the Caribbean
+9,Armenia ,2.2,61,2021,Asia,Western Asia
+10,Aruba,1.9,2,2014,Americas,Latin America and the Caribbean
+11,Australia ,0.8,218,2022,Oceania,Australia and New Zealand
+12,Austria ,0.9,79,2022,Europe,Western Europe
+13,Azerbaijan ,1.9,197,2021,Asia,Western Asia
+14,Bahamas,31.2,128,2022,Americas,Latin America and the Caribbean
+15,Bahrain ,0.1,1,2021,Asia,Western Asia
+16,Bangladesh ,2.3,3830,2018,Asia,Southern Asia
+17,Barbados,15.3,43,2022,Americas,Latin America and the Caribbean
+18,Belarus,2.3,225,2019,Europe,Eastern Europe
+19,Belgium ,1.1,125,2021,Europe,Western Europe
+20,Belize ,27.9,113,2022,Americas,Latin America and the Caribbean
+21,Bermuda,10.9,7,2021,Americas,Northern America
+22,Bhutan ,2.5,19,2020,Asia,Southern Asia
+23,Bolivia ,4.0,485,2022,Americas,Latin America and the Caribbean
+24,Bosnia and Herzegovina,1.1,35,2022,Europe,Southern Europe
+25,Botswana,10.5,273,2021,Africa,Sub-Saharan Africa
+26,Brazil ,21.3,45562,2021,Americas,Latin America and the Caribbean
+27,British Virgin Islands,8.2,2,2006,Americas,Latin America and the Caribbean
+28,Brunei,0.5,2,2013,Asia,South-eastern Asia
+29,Bulgaria ,1.1,76,2022,Europe,Eastern Europe
+30,Burundi,5.8,635,2016,Africa,Sub-Saharan Africa
+31,Cape Verde ,6.2,36,2020,Africa,Sub-Saharan Africa
+32,Cambodia ,1.8,268,2011,Asia,South-eastern Asia
+33,Cameroon,4.5,1202,2020,Africa,Sub-Saharan Africa
+34,Canada ,2.3,874,2022,Americas,Northern America
+35,Cayman Islands,4.5,3,2020,Americas,Latin America and the Caribbean
+36,Chile ,6.7,1322,2022,Americas,Latin America and the Caribbean
+37,China ,0.5,7157,2020,Asia,Eastern Asia
+38,Colombia ,25.4,13166,2022,Americas,Latin America and the Caribbean
+39,Cook Islands,3.5,1,2012,Oceania,Polynesia
+40,Costa Rica ,12.8,664,2022,Americas,Latin America and the Caribbean
+41,Croatia,0.8,31,2022,Europe,Southern Europe
+42,Cuba ,4.4,500,2019,Americas,Latin America and the Caribbean
+43,Curaçao,17.1,26,2007,Americas,Latin America and the Caribbean
+44,Cyprus,0.6,8,2022,Asia,Western Asia
+45,Czech Republic ,0.8,87,2022,Europe,Eastern Europe
+46,Denmark ,1.0,58,2022,Europe,Northern Europe
+47,Dominica,13.8,10,2021,Americas,Latin America and the Caribbean
+48,Dominican Republic ,12.4,1389,2022,Americas,Latin America and the Caribbean
+49,Ecuador ,27.0,4859,2022,Americas,Latin America and the Caribbean
+50,East Timor,4.1,49,2015,Asia,South-eastern Asia
+51,Egypt ,1.3,1360,2017,Africa,Northern Africa
+52,El Salvador ,7.8,496,2022,Americas,Latin America and the Caribbean
+53,Eritrea,14.6,474,2012,Africa,Sub-Saharan Africa
+54,Estonia ,2.0,26,2021,Europe,Northern Europe
+55,Eswatini,12.7,151,2021,Africa,Sub-Saharan Africa
+56,Ethiopia ,8.6,8153,2012,Africa,Sub-Saharan Africa
+57,Fiji,2.2,20,2020,Oceania,Melanesia
+58,Finland ,1.2,67,2022,Europe,Northern Europe
+59,France ,1.1,734,2021,Europe,Western Europe
+60,French Guiana,13.3,39,2020,Americas,Latin America and the Caribbean
+61,French Polynesia,0.4,1,2009,Oceania,Polynesia
+62,Georgia,2.0,77,2019,Asia,Western Asia
+63,Germany ,0.8,695,2021,Europe,Western Europe
+64,Ghana ,1.8,603,2021,Africa,Sub-Saharan Africa
+65,Gibraltar ,3.2,1,2010,Europe,Southern Europe
+66,Greece ,1.1,117,2022,Europe,Southern Europe
+67,Greenland ,5.4,3,2016,Americas,Northern America
+68,Grenada,4.0,5,2021,Americas,Latin America and the Caribbean
+69,Guadeloupe ,5.8,23,2016,Americas,Latin America and the Caribbean
+70,Guam,4.2,7,2019,Oceania,Micronesia
+71,Guatemala ,20.0,3520,2021,Americas,Latin America and the Caribbean
+72,Guinea-Bissau,1.1,21,2017,Africa,Sub-Saharan Africa
+73,Guyana ,16.3,131,2021,Americas,Latin America and the Caribbean
+74,Haiti ,18.0,2088,2022,Americas,Latin America and the Caribbean
+75,Holy See,0.0,0,2022,Europe,Southern Europe
+76,Honduras ,35.1,3661,2022,Americas,Latin America and the Caribbean
+77,Hong Kong ,0.4,30,2022,Asia,Eastern Asia
+78,Hungary ,0.9,94,2022,Europe,Eastern Europe
+79,Iceland,0.5,2,2021,Europe,Northern Europe
+80,India ,2.9,41330,2021,Asia,Southern Asia
+81,Indonesia ,0.6,1419,2004,Asia,South-eastern Asia
+82,Iran ,2.4,1936,2014,Asia,Southern Asia
+83,Iraq,9.4,3339,2013,Asia,Western Asia
+84,Iraq. Central Iraq,15.4,5459,2021,Asia,Western Asia
+85,Iraq (Kurdistan Region),2.2,111,2013,Asia,Western Asia
+86,Ireland,0.9,44,2022,Europe,Northern Europe
+87,Isle of Man,0.0,0,2016,Europe,Northern Europe
+88,Israel ,1.9,173,2021,Asia,Western Asia
+89,Italy ,0.5,322,2022,Europe,Southern Europe
+90,Jamaica ,53.3,1508,2022,Americas,Latin America and the Caribbean
+91,Japan ,0.2,285,2021,Asia,Eastern Asia
+92,Jordan ,1.1,126,2022,Asia,Western Asia
+93,Kazakhstan ,3.2,606,2020,Asia,Central Asia
+94,Kenya ,4.9,2643,2022,Africa,Sub-Saharan Africa
+95,Kiribati,7.2,8,2012,Oceania,Micronesia
+96,Kosovo ,2.0,33,2021,Europe,Southern Europe
+97,Kuwait ,0.3,11,2020,Asia,Western Asia
+98,Latvia ,3.6,67,2022,Europe,Northern Europe
+99,Lebanon,2.3,128,2020,Asia,Western Asia
+100,Lesotho ,37.7,752,2008,Africa,Sub-Saharan Africa
+101,Liberia ,3.1,135,2012,Africa,Sub-Saharan Africa
+102,Liechtenstein,5.1,2,2021,Europe,Western Europe
+103,Lithuania,2.4,67,2022,Europe,Northern Europe
+104,Luxembourg,1.5,10,2022,Europe,Western Europe
+105,Macau ,0.4,2,2022,Asia,Eastern Asia
+106,Malawi,1.8,279,2012,Africa,Sub-Saharan Africa
+107,Malaysia ,0.7,243,2021,Asia,South-eastern Asia
+108,Maldives ,0.6,3,2019,Asia,Southern Asia
+109,Malta,0.4,2,2021,Europe,Southern Europe
+110,Marshall Islands,4.0,2,1994,Oceania,Micronesia
+111,Martinique,2.8,11,2009,Americas,Latin America and the Caribbean
+112,Mauritania ,1.0,46,2020,Africa,Sub-Saharan Africa
+113,Mauritius ,2.2,29,2022,Africa,Sub-Saharan Africa
+114,Mayotte,5.8,12,2009,Africa,Sub-Saharan Africa
+115,Mexico ,26.1,33287,2022,Americas,Latin America and the Caribbean
+116,Micronesia,0.9,1,2019,Oceania,Micronesia
+117,Monaco,0.0,0,2008,Europe,Western Europe
+118,Mongolia,6.2,206,2021,Asia,Eastern Asia
+119,Montenegro ,2.6,16,2022,Europe,Southern Europe
+120,Montserrat,0.0,0,2018,Americas,Latin America and the Caribbean
+121,Morocco,1.6,618,2022,Africa,Northern Africa
+122,Mozambique,3.6,849,2011,Africa,Sub-Saharan Africa
+123,Myanmar ,3.9,2098,2022,Asia,South-eastern Asia
+124,Namibia ,12.4,315,2021,Africa,Sub-Saharan Africa
+125,Nepal ,2.3,659,2019,Asia,Southern Asia
+126,Netherlands,0.8,142,2022,Europe,Western Europe
+127,New Caledonia,3.1,8,2009,Oceania,Melanesia
+128,New Zealand ,2.6,129,2019,Oceania,Australia and New Zealand
+129,Nicaragua,11.0,754,2021,Americas,Latin America and the Caribbean
+130,Niger,4.4,788,2012,Africa,Sub-Saharan Africa
+131,Nigeria ,21.7,44200,2019,Africa,Sub-Saharan Africa
+132,North Macedonia,0.9,18,2022,Europe,Southern Europe
+133,Northern Ireland ,1.4,27,2022,Europe,Northern Europe
+134,Norway ,0.6,30,2022,Europe,Northern Europe
+135,Oman ,0.3,12,2022,Asia,Western Asia
+136,Pakistan ,4.2,9937,2022,Asia,Southern Asia
+137,Palau,11.2,2,2018,Oceania,Micronesia
+138,Palestine ,1.4,74,2022,Asia,Western Asia
+139,Panama ,11.3,499,2022,Americas,Latin America and the Caribbean
+140,Papua New Guinea ,9.4,713,2010,Oceania,Melanesia
+141,Paraguay ,7.0,472,2022,Americas,Latin America and the Caribbean
+142,Peru ,5.7,1903,2020,Americas,Latin America and the Caribbean
+143,Philippines ,4.3,4764,2019,Asia,South-eastern Asia
+144,Poland ,0.7,270,2022,Europe,Eastern Europe
+145,Portugal ,0.8,82,2021,Europe,Southern Europe
+146,Puerto Rico ,17.6,572,2022,Americas,Latin America and the Caribbean
+147,Qatar ,0.3,9,2021,Asia,Western Asia
+148,South Korea ,0.5,275,2022,Asia,Eastern Asia
+149,Moldova ,3.0,93,2020,Europe,Eastern Europe
+150,Réunion,1.7,15,2009,Africa,Sub-Saharan Africa
+151,Romania ,1.3,247,2022,Europe,Eastern Europe
+152,Russia ,6.8,9866,2021,Europe,Eastern Europe
+153,Rwanda,3.6,472,2020,Africa,Sub-Saharan Africa
+154,Saint Helena,0.0,0,2009,Africa,Sub-Saharan Africa
+155,Saint Kitts and Nevis ,29.4,14,2021,Americas,Latin America and the Caribbean
+156,Saint Lucia ,36.7,66,2022,Americas,Latin America and the Caribbean
+157,Saint Martin,28.7,10,2016,Americas,Latin America and the Caribbean
+158,Saint Pierre and Miquelon,16.5,1,2009,Americas,Northern America
+159,Saint Vincent and the Grenadines,40.4,42,2022,Americas,Latin America and the Caribbean
+160,Samoa,6.2,13,2018,Oceania,Polynesia
+161,San Marino,0.0,0,2011,Europe,Southern Europe
+162,São Tomé and Príncipe,3.2,6,2011,Africa,Sub-Saharan Africa
+163,Saudi Arabia ,0.8,285,2019,Asia,Western Asia
+164,Scotland ,1.0,53,2021,Europe,Northern Europe
+165,Senegal,0.3,39,2015,Africa,Western Africa
+166,Serbia ,1.0,74,2022,Europe,Southern Europe
+167,Seychelles,4.7,5,2021,Africa,Eastern Africa
+168,Sierra Leone,2.1,176,2020,Africa,Sub-Saharan Africa
+169,Singapore ,0.1,7,2022,Asia,South-eastern Asia
+170,Slovakia ,0.7,42,2022,Europe,Eastern Europe
+171,Slovenia ,0.6,13,2022,Europe,Southern Europe
+172,Solomon Islands,3.7,19,2008,Oceania,Melanesia
+173,South Africa ,41.9,24865,2021,Africa,Sub-Saharan Africa
+174,South Sudan,14.1,1504,2012,Africa,Sub-Saharan Africa
+175,Spain ,0.7,325,2022,Europe,Southern Europe
+176,Sri Lanka ,3.4,742,2019,Asia,Southern Asia
+177,Suriname ,7.3,45,2022,Americas,Latin America and the Caribbean
+178,Sweden ,1.1,116,2022,Europe,Northern Europe
+179,Switzerland ,0.5,43,2022,Europe,Western Europe
+180,Syria,2.1,463,2010,Asia,Western Asia
+181,Tajikistan,0.9,87,2020,Asia,Central Asia
+182,Tanzania,3.7,2286,2020,Africa,Sub-Saharan Africa
+183,Thailand ,4.8,3307,2011,Asia,South-eastern Asia
+184,Tonga ,1.0,1,2019,Oceania,Polynesia
+185,Trinidad and Tobago ,40.0,605,2022,Americas,Latin America and the Caribbean
+186,Tunisia,4.6,562,2020,Africa,Northern Africa
+187,Turkey ,2.7,2279,2022,Asia,Western Asia
+188,Turkmenistan,1.1,63,2015,Asia,Central Asia
+189,Turks and Caicos Islands,5.7,2,2014,Americas,Latin America and the Caribbean
+190,Tuvalu ,0.0,0,2019,Oceania,Polynesia
+191,Uganda,8.5,3912,2021,Africa,Sub-Saharan Africa
+192,Ukraine ,3.8,1673,2021,Europe,Eastern Europe
+193,United Arab Emirates ,0.5,44,2021,Asia,Western Asia
+194,United Kingdom (England and Wales),1.2,696,2021,Europe,Northern Europe
+195,United Kingdom (Great Britain and Northern Ireland),1.0,673,2020,Europe,Northern Europe
+196,United States ,6.4,21593,2022,Americas,Northern America
+197,U.S. Virgin Islands,49.6,52,2012,Americas,Latin America and the Caribbean
+198,Uruguay,11.2,383,2022,Americas,Latin America and the Caribbean
+199,Uzbekistan,1.4,479,2021,Asia,Central Asia
+200,Vanuatu,0.3,1,2020,Oceania,Melanesia
+201,Venezuela ,19.3,5444,2021,Americas,Latin America and the Caribbean
+202,Vietnam ,1.5,1358,2011,Asia,South-eastern Asia
+203,Yemen ,6.3,1703,2013,Asia,Western Asia
+204,Zambia,5.2,853,2015,Africa,Sub-Saharan Africa
+205,Zimbabwe ,6.7,1086,2022,Africa,Sub-Saharan Africa
